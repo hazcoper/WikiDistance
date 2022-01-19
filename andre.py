@@ -11,7 +11,7 @@ start = time.time()
 S = requests.Session()
 
 def do_request(article):
-    notDone = False
+    notDone = True
 
     URL = "https://en.wikipedia.org/w/api.php"
 
@@ -23,15 +23,17 @@ def do_request(article):
         "pllimit": "max"
     }
 
-    if notDone:
-        PARAMS ["plcontinue"] = plcontinue
-    
     R = S.get(url=URL, params=PARAMS)
     DATA = R.json()
 
-    if "continue" in DATA:
-        print("This is continue")
-        plcontinue = DATA["continue"]["plcontinue"]
+
+    
+    # if notDone:
+    #     PARAMS ["plcontinue"] = "plcontinue"
+
+    # if "continue" in DATA:
+    #     print("This is continue")
+    #     plcontinue = DATA["continue"]["plcontinue"]
 
     return DATA
 
@@ -48,15 +50,15 @@ def format_request(data):
 def main():
     data = do_request("Portugal")
     
-    for entry in data["query"]["pages"]["23033"]["links"]:
-        if entry["title"] ==".pt":
-            continue
+    # for entry in data["query"]["pages"]["23033"]["links"]:
+    #     if entry["title"] ==".pt":
+    #         continue
         
-        myDatabase.addEntry("Portugal",entry["title"])
+    #     myDatabase.addEntry("Portugal",entry["title"])
 
     # print("this is the data")
     # print(type(data))
-    # print(data)
+    print(data)
     # print(data.keys())
     # print(data["query"])
 
