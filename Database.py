@@ -1,3 +1,4 @@
+import random
 import json
 import os
 
@@ -8,75 +9,197 @@ class MyDatabase():
 
         self.fileName = None
 
-        self.loadDict()
+        self.saveat = 10 #entries
 
-    # def __del__(self):
-    #     if(input("Should I save? ") == "y"):
-    #         self.saveDict()
+        self.loadedList = {} #dictionary with the letter as key and dictionary with links as value
+        self.loadquant = 2
+        self.loadedNum = 0
 
-    def saveDict(self):
+
+    def getName(self, letter):
         """
-        Will save the dictionary
+        Receives a letter and returns the name of the dictionary saved in disk
         """
-        if self.fileName == None:
-            self.fileName = self.searchDir()
-            if self.fileName == None:
-                self.fileName = "myDict.json" #setting new file name
+        return os.path.join("db", f"{letter.lower()}.json")
 
-        #save to the file (overwritting)
-        with open(self.fileName, "w") as write_file:
-            json.dump(self.myDict, write_file)
-
-
-    def loadDict(self):        
+    def saveAndExit(self):
         """
-        need to implement more security, search for a specific file
-        add a signature to the file
-        add a way to compare the dictionary that is being loaded with the one already present
+        Will offload all loaded dicts to disk in order to close the application
         """
-        #check if there is a file already
+        myList = list(self.loadedList)
+        for letter in myList:
+            self.removeFromMemory(letter)
 
-        if self.fileName == None:
-            self.fileName = self.searchDir()
-            if self.fileName == None:
-                #means that there is no save file
-                print("No file has been found")
-                return
-         
-        with open(self.fileName, "r") as read_file:
-            self.myDict = json.load(read_file)
-
-        print("json has been loaded")
-
-    def searchDir(self):
+    def removeFromMemory(self, letter):
         """
-        Will search the root directory for the dictionary
+        Receives a letter and will do the process of removing the dictionary from memory.
+        basically save the dictionary
+        """
         
+        if letter not in self.loadedList:
+            print(f"[removeFromMemory] - dict representing letter {letter} not in memory")
+            return False
 
-        Returns the path to the dictionary. if there is no dictionary present it returns none 
+        #lets save the dict, i need the name before
+        name = self.getName(letter)
+        self.saveDict(letter, name)
+
+        # this is the dictionary that I want to unload
+        myDict = self.loadedList.pop(letter)
+
+
+        self.loadedNum -= 1
+        
+    
+    def loadToMemory(self, letter):
         """
-        jsonList = [x for x in os.listdir() if x.split(".")[-1] == "json"]
-        if len(jsonList) > 0:
-            return jsonList[0]
+        Receives a letter and will load the given dictionary to memory
+        will remove random element from the list
+        """
+
+        if letter in self.loadedList:
+            print(f"[loadToMemory] - dict representing letter {letter} is already in memory")
+            return False
+
+
+        #need to check that I have space in memory
+        if self.loadedNum >= self.loadquant:
+            self.removeFromMemory(random.choice(list(self.loadedList)))
+
+
+        name = self.getName(letter)
+
+        #check if dictionary already exists or not
+        if os.path.split(name)[-1] not in os.listdir("db"):
+            print(os.listdir("db"), name)
+            self.loadedList[letter] = {}
+            print("Created with this name ", name)
         else:
-            return None
+            with open(name, "r") as read_file:
+                self.loadedList[letter] = json.load(read_file)
+
+        self.loadedNum += 1
+
+    def getNextLink(self, article):
+        """
+        Will return the next link from the article that has not been seen yet.
+        will return None if article does not exist
+        will return -1 when all the links have been seen
+        """
+
+        #have to check if dict is loaded in memory
+        if article[0] not in self.loadedList:
+            #means that the dict is not loaded in memory and I want to load it
+            self.loadToMemory(article[0])
+
+        #check if article has been indexed or not
+        print("This is the keys: ", list(self.loadedList))
+        print(f"{article} keys {list(self.loadedList[article[0]])}")
+        if len(list(self.loadedList[article[0]])) == 0:
+            print(self.loadedList[article[0]])
+        if article not in self.loadedList[article[0]]:
+            print(f"[getNextLink] - article {article} has not been indexed yet")
+            return False
+
+
+        index = self.loadedList[article[0]][article]["index"]
+        if index == len(self.loadedList[article[0]][article]["links"]):
+            return -1
+        link = self.loadedList[article[0]][article]["links"][index]
+        self.loadedList[article[0]][article]["index"] += 1
+
+        return link
 
     def getDictSize(self):
         print("Please implement me")
 
-    def addEntry(self, key, value):
+    def addSingleEntry(self, key, singleValue): 
+        print(" please implement me")
+
+    def appendReferenceList(self, article, valueList):
         """"
-        Receives a key representing a wikipedia page and a value representing a link in that page
-        will add that said key and value to the database
+        Receives a article name representing a wikipedia page and a value representing a list of links present in said article
+        and will add it to the databse
         """
 
-        if key in self.myDict and value not in self.myDict[key]:
-            self.myDict[key].append(value)
+        #check if I need to load the dictionary to memory
+        print(f"this is the article {article}")
+        if article[0] not in self.loadedList:
+            self.loadToMemory(article[0])
+        
+        #i should check if the list that I am adding, if elements are not already in the list
+        #maybe use a set?
+        
+        if article in self.loadedList[article[0]]:
+            self.loadedList[article[0]][article]["links"] += valueList
         else:
-            self.myDict[key] = [value]
+            self.loadedList[article[0]][article] = {}
+            self.loadedList[article[0]][article]["links"] = valueList
+            self.loadedList[article[0]][article]["index"] = 0
+
+    def getRandomLink(self, article):
+        """
+        Will return random link inside that article
+        will return None if article does not exist
+        """
+        print("Please impelent me")        
 
     def removeEntry(self):
         print("Please implement me")
 
+
+    def saveDict(self, letter, name):
+        """
+        Receives a letter and name that represents a  dict that is loaded in memory and will save said dict to disk
+        """
+        
+        if letter not in self.loadedList:
+            print(f"[saveDict] - dict representing letter {letter} not in memory")
+            return False
+        #save to the file (overwritting)
+        with open(name, "w") as write_file:
+            json.dump(self.loadedList[letter], write_file)
+
+
+    # def loadDict(self):        
+    #     """
+    #     need to implement more security, search for a specific file
+    #     add a signature to the file
+    #     add a way to compare the dictionary that is being loaded with the one already present
+    #     """
+    #     #check if there is a file already
+
+    #     if self.fileName == None:
+    #         self.fileName = self.searchDir()
+    #         if self.fileName == None:
+    #             #means that there is no save file
+    #             print("No file has been found")
+    #             return
+         
+    #     with open(self.fileName, "r") as read_file:
+    #         self.myDict = json.load(read_file)
+
+    #     print("json has been loaded")
+
+    # def searchDir(self):
+    #     """
+    #     Will search the root directory for the dictionary
+        
+
+    #     Returns the path to the dictionary. if there is no dictionary present it returns none 
+    #     """
+    #     jsonList = [x for x in os.listdir() if x.split(".")[-1] == "json"]
+    #     if len(jsonList) > 0:
+    #         return jsonList[0]
+    #     else:
+    #         return None
+
+
+
+if __name__ == '__main__':
+
+    db = MyDatabase()
+    main()
+    myDatabase.saveDict()
 
 
