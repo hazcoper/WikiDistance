@@ -2,6 +2,20 @@ import random
 import json
 import os
 
+"""
+articles are stored in dict of their first letter
+    each article has three entreis
+        list --> links
+        int  --> index represents what links of the articles have been seen
+
+in order avoid one big file size (which is harder to manage) I am dividing the database in many files
+sorted by the first letter of the articles
+and i have implemented a way in which i can specify how many I want to be loaded into memory
+
+
+"""
+
+
 class MyDatabase():
 
     def __init__(self):
@@ -12,7 +26,7 @@ class MyDatabase():
         self.saveat = 10 #entries
 
         self.loadedList = {} #dictionary with the letter as key and dictionary with links as value
-        self.loadquant = 2
+        self.loadquant = 5   #how many dicts to be loaded at once in memory
         self.loadedNum = 0
 
 
@@ -94,7 +108,7 @@ class MyDatabase():
 
         #check if article has been indexed or not
         print("This is the keys: ", list(self.loadedList))
-        print(f"{article} keys {list(self.loadedList[article[0]])}")
+        # print(f"{article} keys {list(self.loadedList[article[0]])}")
         if len(list(self.loadedList[article[0]])) == 0:
             print(self.loadedList[article[0]])
         if article not in self.loadedList[article[0]]:
@@ -109,6 +123,27 @@ class MyDatabase():
         self.loadedList[article[0]][article]["index"] += 1
 
         return link
+
+    def getBaseArticle(self):
+        """
+        Will return an article where not all the links have been seen yet
+        Will only return from the a dictionary that is loaded
+            will need to deal with what happens when all of the articles that are loaded have been seen
+        """
+
+        #iterate over all the loaded dicts
+        #   look for an article that has the index < len of the list
+        #   return that value
+        for letter in self.loadedList:
+            print(f"        THis is the letter {letter}")
+            for article in self.loadedList[letter]:
+                myLen = len(self.loadedList[letter][article]["links"])
+                myIndex = self.loadedList[letter][article]["index"]
+                print(f"           THis is the article {article}, len {myLen}, index {myIndex}")
+                if len(self.loadedList[letter][article]["links"]) < self.loadedList[letter][article]["index"]:
+                    return article
+
+        print("[getBaseArticle] - PROBLEM - all articles have been fully seen, this should not happen")
 
     def getDictSize(self):
         print("Please implement me")

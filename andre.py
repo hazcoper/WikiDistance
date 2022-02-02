@@ -78,26 +78,39 @@ def do_request(article):
     print(f"  There was {counter*500} links")
     return results
 
+
+#I will have two articles, the base article (where I am looking for other articles) and the link article
+# the link article is a link in the base article, and will be adding it as a possible base article
+# the link article is actually named nextArticle
+
 def main():
     # data = do_request("Pillars of Creation")
     
     #gonna start with portugal, get all the links, get one random article from there and try that
     print("doing Portugal")
-    data = do_request("Portugal")
-    myDatabase.appendReferenceList("Portugal", data)
+
+    baseLink = "Alentejo"
+    data = do_request(baseLink)
+    myDatabase.appendReferenceList(baseLink, data)
     nextArticle = 0
     counter = 0
-    while nextArticle != -1:    
-        nextArticle = myDatabase.getNextLink("Portugal")
+    x = 0
+    while x < 10:
+
         if nextArticle == -1:
-            print("done with all the articles")
-            break
-        print(f"Doing {nextArticle}")
-        data = do_request(nextArticle)
-        myDatabase.appendReferenceList(nextArticle, data)
-        counter += 1
-        if counter == 100:
-            break
+            x += 1
+            baseLink = myDatabase.getBaseArticle()
+            print(f"[CHANGE] - new base link {baseLink}")
+
+        else:
+            nextArticle = myDatabase.getNextLink(baseLink)
+            if nextArticle == -1:
+                print("done with all the articles")
+                continue
+            print(f"Doing {nextArticle} in {baseLink}")
+            data = do_request(nextArticle)
+            myDatabase.appendReferenceList(nextArticle, data)
+            counter += 1
 
     # data = do_request("Sérgio Azevedo")
 

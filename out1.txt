@@ -1,0 +1,708 @@
+doing Portugal
+  There was 500 links
+this is the article Alentejo
+This is the keys:  ['A']
+Doing Alans in Alentejo
+  There was 1000 links
+this is the article Alans
+This is the keys:  ['A']
+Doing Alentejo (disambiguation) in Alentejo
+  There was 500 links
+this is the article Alentejo (disambiguation)
+This is the keys:  ['A']
+Doing Alentejo Litoral in Alentejo
+  There was 500 links
+this is the article Alentejo Litoral
+This is the keys:  ['A']
+Doing Alentejo Province in Alentejo
+  There was 500 links
+this is the article Alentejo Province
+This is the keys:  ['A']
+Doing Alentejo Region in Alentejo
+  There was 500 links
+this is the article Alentejo Region
+This is the keys:  ['A']
+Doing Alentejo wine in Alentejo
+  There was 500 links
+this is the article Alentejo wine
+This is the keys:  ['A']
+Doing Algarve in Alentejo
+  There was 1000 links
+this is the article Algarve
+This is the keys:  ['A']
+Doing Alqueva Dam in Alentejo
+  There was 500 links
+this is the article Alqueva Dam
+This is the keys:  ['A']
+Doing Alto Alentejo Province in Alentejo
+  There was 500 links
+this is the article Alto Alentejo Province
+This is the keys:  ['A']
+Doing Amareleja in Alentejo
+  There was 500 links
+this is the article Amareleja
+This is the keys:  ['A']
+Doing Andalucia in Alentejo
+  There was 500 links
+this is the article Andalucia
+This is the keys:  ['A']
+Doing Antas do Olival da Pêga in Alentejo
+  There was 500 links
+this is the article Antas do Olival da Pêga
+This is the keys:  ['A']
+Doing Baixo Alentejo Province in Alentejo
+  There was 500 links
+this is the article Baixo Alentejo Province
+This is the keys:  ['A', 'B']
+Doing Beira Baixa Province in Alentejo
+  There was 500 links
+this is the article Beira Baixa Province
+This is the keys:  ['A', 'B']
+Doing Beja, Portugal in Alentejo
+  There was 500 links
+this is the article Beja, Portugal
+This is the keys:  ['A', 'B']
+Doing British English in Alentejo
+  There was 500 links
+this is the article British English
+This is the keys:  ['A', 'B']
+Doing Cante Alentejano in Alentejo
+  There was 500 links
+this is the article Cante Alentejano
+This is the keys:  ['A', 'B', 'C']
+Doing Cape St. Vincent in Alentejo
+  There was 500 links
+this is the article Cape St. Vincent
+This is the keys:  ['A', 'B', 'C']
+Doing Casablanca in Alentejo
+  There was 1000 links
+this is the article Casablanca
+This is the keys:  ['A', 'B', 'C']
+Doing Castelo de Vide in Alentejo
+  There was 500 links
+this is the article Castelo de Vide
+This is the keys:  ['A', 'B', 'C']
+Doing Citrus in Alentejo
+  There was 1000 links
+this is the article Citrus
+This is the keys:  ['A', 'B', 'C']
+Doing Climate change in Alentejo
+  There was 1000 links
+this is the article Climate change
+This is the keys:  ['A', 'B', 'C']
+Doing Comarca in Alentejo
+  There was 500 links
+this is the article Comarca
+This is the keys:  ['A', 'B', 'C']
+Doing Cork (material) in Alentejo
+  There was 1000 links
+this is the article Cork (material)
+This is the keys:  ['A', 'B', 'C']
+Doing Corsica in Alentejo
+  There was 1000 links
+this is the article Corsica
+This is the keys:  ['A', 'B', 'C']
+Doing District of Beja in Alentejo
+  There was 500 links
+this is the article District of Beja
+This is the keys:  ['A', 'B', 'C', 'D']
+Doing District of Portalegre in Alentejo
+  There was 500 links
+this is the article District of Portalegre
+This is the keys:  ['A', 'B', 'C', 'D']
+Doing District of Évora in Alentejo
+  There was 500 links
+this is the article District of Évora
+This is the keys:  ['A', 'B', 'C', 'D']
+Doing Ecosystem in Alentejo
+  There was 1000 links
+this is the article Ecosystem
+This is the keys:  ['A', 'B', 'C', 'D', 'E']
+Doing Elvas in Alentejo
+  There was 500 links
+this is the article Elvas
+This is the keys:  ['A', 'B', 'C', 'D', 'E']
+Doing Encyclopædia Britannica Eleventh Edition in Alentejo
+  There was 500 links
+this is the article Encyclopædia Britannica Eleventh Edition
+This is the keys:  ['A', 'B', 'C', 'D', 'E']
+Doing Estremadura Province (historical) in Alentejo
+  There was 500 links
+this is the article Estremadura Province (historical)
+This is the keys:  ['A', 'B', 'C', 'D', 'E']
+Doing Estremoz in Alentejo
+  There was 500 links
+this is the article Estremoz
+This is the keys:  ['A', 'B', 'C', 'D', 'E']
+Doing Eucalyptus globulus in Alentejo
+  There was 500 links
+this is the article Eucalyptus globulus
+This is the keys:  ['A', 'B', 'C', 'D', 'E']
+Doing Extremadura in Alentejo
+  There was 500 links
+this is the article Extremadura
+This is the keys:  ['A', 'B', 'C', 'D', 'E']
+Doing Grazing in Alentejo
+  There was 500 links
+this is the article Grazing
+This is the keys:  ['A', 'B', 'C', 'E', 'G']
+Doing Guadiana in Alentejo
+  There was 500 links
+this is the article Guadiana
+This is the keys:  ['A', 'B', 'C', 'E', 'G']
+Doing Hydroelectricity in Alentejo
+  There was 500 links
+this is the article Hydroelectricity
+This is the keys:  ['A', 'C', 'E', 'G', 'H']
+Doing Irrigation in Alentejo
+  There was 1000 links
+this is the article Irrigation
+This is the keys:  ['A', 'C', 'G', 'H', 'I']
+Doing Juromenha in Alentejo
+  There was 500 links
+this is the article Juromenha
+This is the keys:  ['A', 'C', 'H', 'I', 'J']
+Doing Kingdom of Portugal in Alentejo
+  There was 1000 links
+this is the article Kingdom of Portugal
+This is the keys:  ['A', 'C', 'H', 'I', 'K']
+Doing Lexico in Alentejo
+  There was 500 links
+this is the article Lexico
+This is the keys:  ['A', 'H', 'I', 'K', 'L']
+Doing Marble in Alentejo
+  There was 500 links
+this is the article Marble
+This is the keys:  ['A', 'H', 'I', 'L', 'M']
+Doing Marvão in Alentejo
+  There was 500 links
+this is the article Marvão
+This is the keys:  ['A', 'H', 'I', 'L', 'M']
+Doing Mediterranean climate in Alentejo
+  There was 500 links
+this is the article Mediterranean climate
+This is the keys:  ['A', 'H', 'I', 'L', 'M']
+Doing Migration Period in Alentejo
+  There was 1000 links
+this is the article Migration Period
+This is the keys:  ['A', 'H', 'I', 'L', 'M']
+Doing Mining in Alentejo
+  There was 1500 links
+this is the article Mining
+This is the keys:  ['A', 'H', 'I', 'L', 'M']
+Doing Monsaraz in Alentejo
+  There was 500 links
+this is the article Monsaraz
+This is the keys:  ['A', 'H', 'I', 'L', 'M']
+Doing Moura, Portugal in Alentejo
+  There was 500 links
+this is the article Moura, Portugal
+This is the keys:  ['A', 'H', 'I', 'L', 'M']
+Doing Mértola in Alentejo
+  There was 500 links
+this is the article Mértola
+This is the keys:  ['A', 'H', 'I', 'L', 'M']
+Doing NUTS statistical regions of Portugal in Alentejo
+  There was 500 links
+this is the article NUTS statistical regions of Portugal
+This is the keys:  ['A', 'H', 'I', 'L', 'N']
+Doing Olive in Alentejo
+  There was 1000 links
+this is the article Olive
+This is the keys:  ['A', 'H', 'I', 'N', 'O']
+Doing Olive oil in Alentejo
+  There was 1000 links
+this is the article Olive oil
+This is the keys:  ['A', 'H', 'I', 'N', 'O']
+Doing Oxford University Press in Alentejo
+  There was 1000 links
+this is the article Oxford University Press
+This is the keys:  ['A', 'H', 'I', 'N', 'O']
+Doing Parque Natural da Serra de São Mamede in Alentejo
+  There was 500 links
+this is the article Parque Natural da Serra de São Mamede
+This is the keys:  ['H', 'I', 'N', 'O', 'A']
+Doing Parque Natural do Vale Guadiana in Alentejo
+  There was 500 links
+this is the article Parque Natural do Vale Guadiana
+This is the keys:  ['H', 'N', 'O', 'P', 'A']
+Doing Polyphonic in Alentejo
+  There was 500 links
+this is the article Polyphonic
+This is the keys:  ['H', 'N', 'O', 'P', 'A']
+Doing Polytechnic Institute of Beja in Alentejo
+  There was 500 links
+this is the article Polytechnic Institute of Beja
+This is the keys:  ['H', 'N', 'O', 'P', 'A']
+Doing Ponte de Sor in Alentejo
+  There was 500 links
+this is the article Ponte de Sor
+This is the keys:  ['H', 'N', 'O', 'P', 'A']
+Doing Population density in Alentejo
+  There was 1000 links
+this is the article Population density
+This is the keys:  ['H', 'N', 'O', 'P', 'A']
+Doing Portalegre, Portugal in Alentejo
+  There was 500 links
+this is the article Portalegre, Portugal
+This is the keys:  ['H', 'N', 'O', 'P', 'A']
+Doing Portugal in Alentejo
+  There was 2500 links
+this is the article Portugal
+This is the keys:  ['H', 'N', 'O', 'P', 'A']
+Doing Presunto in Alentejo
+  There was 500 links
+this is the article Presunto
+This is the keys:  ['H', 'N', 'O', 'P', 'A']
+Doing Protected geographical indications in the European Union in Alentejo
+  There was 500 links
+this is the article Protected geographical indications in the European Union
+This is the keys:  ['H', 'N', 'O', 'P', 'A']
+Doing Queijo de Nisa in Alentejo
+  There was 500 links
+this is the article Queijo de Nisa
+This is the keys:  ['H', 'O', 'P', 'A', 'Q']
+Doing Quercus ilex in Alentejo
+  There was 500 links
+this is the article Quercus ilex
+This is the keys:  ['H', 'O', 'P', 'A', 'Q']
+Doing Quercus suber in Alentejo
+  There was 500 links
+this is the article Quercus suber
+This is the keys:  ['H', 'O', 'P', 'A', 'Q']
+Doing Ribatejo in Alentejo
+  There was 500 links
+this is the article Ribatejo
+This is the keys:  ['H', 'O', 'P', 'A', 'R']
+Doing Ribatejo Province in Alentejo
+  There was 500 links
+this is the article Ribatejo Province
+This is the keys:  ['H', 'O', 'P', 'A', 'R']
+Doing Roman Temple of Évora in Alentejo
+  There was 500 links
+this is the article Roman Temple of Évora
+This is the keys:  ['H', 'O', 'P', 'A', 'R']
+Doing Sado river in Alentejo
+  There was 500 links
+this is the article Sado river
+This is the keys:  ['O', 'P', 'A', 'R', 'S']
+Doing Serpa in Alentejo
+  There was 500 links
+this is the article Serpa
+This is the keys:  ['O', 'P', 'A', 'R', 'S']
+Doing Sines in Alentejo
+  There was 500 links
+this is the article Sines
+This is the keys:  ['O', 'P', 'A', 'R', 'S']
+Doing Smoked ham in Alentejo
+  There was 500 links
+this is the article Smoked ham
+This is the keys:  ['O', 'P', 'A', 'R', 'S']
+Doing Southwest Alentejo and Vicentine Coast Natural Park in Alentejo
+  There was 500 links
+this is the article Southwest Alentejo and Vicentine Coast Natural Park
+This is the keys:  ['O', 'P', 'A', 'R', 'S']
+Doing Subdivisions of Alentejo in Alentejo
+  There was 500 links
+this is the article Subdivisions of Alentejo
+This is the keys:  ['O', 'P', 'A', 'R', 'S']
+Doing Tagus river in Alentejo
+  There was 500 links
+this is the article Tagus river
+This is the keys:  ['O', 'P', 'A', 'R', 'T']
+Doing Tuscany in Alentejo
+  There was 1000 links
+this is the article Tuscany
+This is the keys:  ['O', 'P', 'A', 'R', 'T']
+Doing University of Évora in Alentejo
+  There was 500 links
+this is the article University of Évora
+This is the keys:  ['O', 'P', 'A', 'R', 'U']
+Doing Vine in Alentejo
+  There was 500 links
+this is the article Vine
+This is the keys:  ['O', 'P', 'A', 'R', 'V']
+Doing Vinho do Alentejo in Alentejo
+  There was 500 links
+this is the article Vinho do Alentejo
+This is the keys:  ['O', 'P', 'A', 'R', 'V']
+Doing Vinho do Redondo in Alentejo
+  There was 500 links
+this is the article Vinho do Redondo
+This is the keys:  ['O', 'P', 'A', 'R', 'V']
+Doing Vitis in Alentejo
+  There was 500 links
+this is the article Vitis
+This is the keys:  ['O', 'P', 'A', 'R', 'V']
+Doing Vitis vinifera in Alentejo
+  There was 500 links
+this is the article Vitis vinifera
+This is the keys:  ['O', 'P', 'A', 'R', 'V']
+Doing Western Roman Empire in Alentejo
+  There was 1500 links
+this is the article Western Roman Empire
+This is the keys:  ['O', 'P', 'A', 'R', 'W']
+Doing Wikisource in Alentejo
+  There was 500 links
+this is the article Wikisource
+This is the keys:  ['O', 'P', 'A', 'R', 'W']
+Doing Évora in Alentejo
+  There was 500 links
+this is the article Évora
+This is the keys:  ['O', 'P', 'A', 'W', 'É']
+Doing File:Pt-Alentejo.ogg in Alentejo
+  There was 500 links
+this is the article File:Pt-Alentejo.ogg
+This is the keys:  ['O', 'P', 'É', 'F', 'A']
+done with all the articles
+        THis is the letter O
+           THis is the article Olive, len 4632, index 0
+           THis is the article Olive oil, len 6064, index 0
+           THis is the article Oxford University Press, len 3872, index 0
+        THis is the letter P
+           THis is the article Parque Natural da Serra de São Mamede, len 8, index 0
+           THis is the article Parque Natural do Vale Guadiana, len 8, index 0
+           THis is the article Polyphonic, len 24, index 0
+           THis is the article Polytechnic Institute of Beja, len 208, index 0
+           THis is the article Ponte de Sor, len 400, index 0
+           THis is the article Population density, len 3968, index 0
+           THis is the article Portalegre, Portugal, len 952, index 0
+           THis is the article Portugal, len 18224, index 0
+           THis is the article Presunto, len 576, index 0
+           THis is the article Protected geographical indications in the European Union, len 8, index 0
+        THis is the letter É
+           THis is the article Évora, len 2144, index 0
+        THis is the letter F
+           THis is the article File:Pt-Alentejo.ogg, len 0, index 0
+        THis is the letter A
+           THis is the article Alentejo, len 704, index 704
+           THis is the article Alans, len 4744, index 0
+           THis is the article Alentejo (disambiguation), len 128, index 0
+           THis is the article Alentejo Litoral, len 424, index 0
+           THis is the article Alentejo Province, len 48, index 0
+           THis is the article Alentejo Region, len 528, index 0
+           THis is the article Alentejo wine, len 336, index 0
+           THis is the article Algarve, len 4728, index 0
+           THis is the article Alqueva Dam, len 224, index 0
+           THis is the article Alto Alentejo Province, len 512, index 0
+           THis is the article Amareleja, len 432, index 0
+           THis is the article Andalucia, len 24, index 0
+           THis is the article Antas do Olival da Pêga, len 2248, index 0
+[getBaseArticle] - PROBLEM - all articles have been fully seen, this should not happen
+[CHANGE] - new base link None
+        THis is the letter O
+           THis is the article Olive, len 4632, index 0
+           THis is the article Olive oil, len 6064, index 0
+           THis is the article Oxford University Press, len 3872, index 0
+        THis is the letter P
+           THis is the article Parque Natural da Serra de São Mamede, len 8, index 0
+           THis is the article Parque Natural do Vale Guadiana, len 8, index 0
+           THis is the article Polyphonic, len 24, index 0
+           THis is the article Polytechnic Institute of Beja, len 208, index 0
+           THis is the article Ponte de Sor, len 400, index 0
+           THis is the article Population density, len 3968, index 0
+           THis is the article Portalegre, Portugal, len 952, index 0
+           THis is the article Portugal, len 18224, index 0
+           THis is the article Presunto, len 576, index 0
+           THis is the article Protected geographical indications in the European Union, len 8, index 0
+        THis is the letter É
+           THis is the article Évora, len 2144, index 0
+        THis is the letter F
+           THis is the article File:Pt-Alentejo.ogg, len 0, index 0
+        THis is the letter A
+           THis is the article Alentejo, len 704, index 704
+           THis is the article Alans, len 4744, index 0
+           THis is the article Alentejo (disambiguation), len 128, index 0
+           THis is the article Alentejo Litoral, len 424, index 0
+           THis is the article Alentejo Province, len 48, index 0
+           THis is the article Alentejo Region, len 528, index 0
+           THis is the article Alentejo wine, len 336, index 0
+           THis is the article Algarve, len 4728, index 0
+           THis is the article Alqueva Dam, len 224, index 0
+           THis is the article Alto Alentejo Province, len 512, index 0
+           THis is the article Amareleja, len 432, index 0
+           THis is the article Andalucia, len 24, index 0
+           THis is the article Antas do Olival da Pêga, len 2248, index 0
+[getBaseArticle] - PROBLEM - all articles have been fully seen, this should not happen
+[CHANGE] - new base link None
+        THis is the letter O
+           THis is the article Olive, len 4632, index 0
+           THis is the article Olive oil, len 6064, index 0
+           THis is the article Oxford University Press, len 3872, index 0
+        THis is the letter P
+           THis is the article Parque Natural da Serra de São Mamede, len 8, index 0
+           THis is the article Parque Natural do Vale Guadiana, len 8, index 0
+           THis is the article Polyphonic, len 24, index 0
+           THis is the article Polytechnic Institute of Beja, len 208, index 0
+           THis is the article Ponte de Sor, len 400, index 0
+           THis is the article Population density, len 3968, index 0
+           THis is the article Portalegre, Portugal, len 952, index 0
+           THis is the article Portugal, len 18224, index 0
+           THis is the article Presunto, len 576, index 0
+           THis is the article Protected geographical indications in the European Union, len 8, index 0
+        THis is the letter É
+           THis is the article Évora, len 2144, index 0
+        THis is the letter F
+           THis is the article File:Pt-Alentejo.ogg, len 0, index 0
+        THis is the letter A
+           THis is the article Alentejo, len 704, index 704
+           THis is the article Alans, len 4744, index 0
+           THis is the article Alentejo (disambiguation), len 128, index 0
+           THis is the article Alentejo Litoral, len 424, index 0
+           THis is the article Alentejo Province, len 48, index 0
+           THis is the article Alentejo Region, len 528, index 0
+           THis is the article Alentejo wine, len 336, index 0
+           THis is the article Algarve, len 4728, index 0
+           THis is the article Alqueva Dam, len 224, index 0
+           THis is the article Alto Alentejo Province, len 512, index 0
+           THis is the article Amareleja, len 432, index 0
+           THis is the article Andalucia, len 24, index 0
+           THis is the article Antas do Olival da Pêga, len 2248, index 0
+[getBaseArticle] - PROBLEM - all articles have been fully seen, this should not happen
+[CHANGE] - new base link None
+        THis is the letter O
+           THis is the article Olive, len 4632, index 0
+           THis is the article Olive oil, len 6064, index 0
+           THis is the article Oxford University Press, len 3872, index 0
+        THis is the letter P
+           THis is the article Parque Natural da Serra de São Mamede, len 8, index 0
+           THis is the article Parque Natural do Vale Guadiana, len 8, index 0
+           THis is the article Polyphonic, len 24, index 0
+           THis is the article Polytechnic Institute of Beja, len 208, index 0
+           THis is the article Ponte de Sor, len 400, index 0
+           THis is the article Population density, len 3968, index 0
+           THis is the article Portalegre, Portugal, len 952, index 0
+           THis is the article Portugal, len 18224, index 0
+           THis is the article Presunto, len 576, index 0
+           THis is the article Protected geographical indications in the European Union, len 8, index 0
+        THis is the letter É
+           THis is the article Évora, len 2144, index 0
+        THis is the letter F
+           THis is the article File:Pt-Alentejo.ogg, len 0, index 0
+        THis is the letter A
+           THis is the article Alentejo, len 704, index 704
+           THis is the article Alans, len 4744, index 0
+           THis is the article Alentejo (disambiguation), len 128, index 0
+           THis is the article Alentejo Litoral, len 424, index 0
+           THis is the article Alentejo Province, len 48, index 0
+           THis is the article Alentejo Region, len 528, index 0
+           THis is the article Alentejo wine, len 336, index 0
+           THis is the article Algarve, len 4728, index 0
+           THis is the article Alqueva Dam, len 224, index 0
+           THis is the article Alto Alentejo Province, len 512, index 0
+           THis is the article Amareleja, len 432, index 0
+           THis is the article Andalucia, len 24, index 0
+           THis is the article Antas do Olival da Pêga, len 2248, index 0
+[getBaseArticle] - PROBLEM - all articles have been fully seen, this should not happen
+[CHANGE] - new base link None
+        THis is the letter O
+           THis is the article Olive, len 4632, index 0
+           THis is the article Olive oil, len 6064, index 0
+           THis is the article Oxford University Press, len 3872, index 0
+        THis is the letter P
+           THis is the article Parque Natural da Serra de São Mamede, len 8, index 0
+           THis is the article Parque Natural do Vale Guadiana, len 8, index 0
+           THis is the article Polyphonic, len 24, index 0
+           THis is the article Polytechnic Institute of Beja, len 208, index 0
+           THis is the article Ponte de Sor, len 400, index 0
+           THis is the article Population density, len 3968, index 0
+           THis is the article Portalegre, Portugal, len 952, index 0
+           THis is the article Portugal, len 18224, index 0
+           THis is the article Presunto, len 576, index 0
+           THis is the article Protected geographical indications in the European Union, len 8, index 0
+        THis is the letter É
+           THis is the article Évora, len 2144, index 0
+        THis is the letter F
+           THis is the article File:Pt-Alentejo.ogg, len 0, index 0
+        THis is the letter A
+           THis is the article Alentejo, len 704, index 704
+           THis is the article Alans, len 4744, index 0
+           THis is the article Alentejo (disambiguation), len 128, index 0
+           THis is the article Alentejo Litoral, len 424, index 0
+           THis is the article Alentejo Province, len 48, index 0
+           THis is the article Alentejo Region, len 528, index 0
+           THis is the article Alentejo wine, len 336, index 0
+           THis is the article Algarve, len 4728, index 0
+           THis is the article Alqueva Dam, len 224, index 0
+           THis is the article Alto Alentejo Province, len 512, index 0
+           THis is the article Amareleja, len 432, index 0
+           THis is the article Andalucia, len 24, index 0
+           THis is the article Antas do Olival da Pêga, len 2248, index 0
+[getBaseArticle] - PROBLEM - all articles have been fully seen, this should not happen
+[CHANGE] - new base link None
+        THis is the letter O
+           THis is the article Olive, len 4632, index 0
+           THis is the article Olive oil, len 6064, index 0
+           THis is the article Oxford University Press, len 3872, index 0
+        THis is the letter P
+           THis is the article Parque Natural da Serra de São Mamede, len 8, index 0
+           THis is the article Parque Natural do Vale Guadiana, len 8, index 0
+           THis is the article Polyphonic, len 24, index 0
+           THis is the article Polytechnic Institute of Beja, len 208, index 0
+           THis is the article Ponte de Sor, len 400, index 0
+           THis is the article Population density, len 3968, index 0
+           THis is the article Portalegre, Portugal, len 952, index 0
+           THis is the article Portugal, len 18224, index 0
+           THis is the article Presunto, len 576, index 0
+           THis is the article Protected geographical indications in the European Union, len 8, index 0
+        THis is the letter É
+           THis is the article Évora, len 2144, index 0
+        THis is the letter F
+           THis is the article File:Pt-Alentejo.ogg, len 0, index 0
+        THis is the letter A
+           THis is the article Alentejo, len 704, index 704
+           THis is the article Alans, len 4744, index 0
+           THis is the article Alentejo (disambiguation), len 128, index 0
+           THis is the article Alentejo Litoral, len 424, index 0
+           THis is the article Alentejo Province, len 48, index 0
+           THis is the article Alentejo Region, len 528, index 0
+           THis is the article Alentejo wine, len 336, index 0
+           THis is the article Algarve, len 4728, index 0
+           THis is the article Alqueva Dam, len 224, index 0
+           THis is the article Alto Alentejo Province, len 512, index 0
+           THis is the article Amareleja, len 432, index 0
+           THis is the article Andalucia, len 24, index 0
+           THis is the article Antas do Olival da Pêga, len 2248, index 0
+[getBaseArticle] - PROBLEM - all articles have been fully seen, this should not happen
+[CHANGE] - new base link None
+        THis is the letter O
+           THis is the article Olive, len 4632, index 0
+           THis is the article Olive oil, len 6064, index 0
+           THis is the article Oxford University Press, len 3872, index 0
+        THis is the letter P
+           THis is the article Parque Natural da Serra de São Mamede, len 8, index 0
+           THis is the article Parque Natural do Vale Guadiana, len 8, index 0
+           THis is the article Polyphonic, len 24, index 0
+           THis is the article Polytechnic Institute of Beja, len 208, index 0
+           THis is the article Ponte de Sor, len 400, index 0
+           THis is the article Population density, len 3968, index 0
+           THis is the article Portalegre, Portugal, len 952, index 0
+           THis is the article Portugal, len 18224, index 0
+           THis is the article Presunto, len 576, index 0
+           THis is the article Protected geographical indications in the European Union, len 8, index 0
+        THis is the letter É
+           THis is the article Évora, len 2144, index 0
+        THis is the letter F
+           THis is the article File:Pt-Alentejo.ogg, len 0, index 0
+        THis is the letter A
+           THis is the article Alentejo, len 704, index 704
+           THis is the article Alans, len 4744, index 0
+           THis is the article Alentejo (disambiguation), len 128, index 0
+           THis is the article Alentejo Litoral, len 424, index 0
+           THis is the article Alentejo Province, len 48, index 0
+           THis is the article Alentejo Region, len 528, index 0
+           THis is the article Alentejo wine, len 336, index 0
+           THis is the article Algarve, len 4728, index 0
+           THis is the article Alqueva Dam, len 224, index 0
+           THis is the article Alto Alentejo Province, len 512, index 0
+           THis is the article Amareleja, len 432, index 0
+           THis is the article Andalucia, len 24, index 0
+           THis is the article Antas do Olival da Pêga, len 2248, index 0
+[getBaseArticle] - PROBLEM - all articles have been fully seen, this should not happen
+[CHANGE] - new base link None
+        THis is the letter O
+           THis is the article Olive, len 4632, index 0
+           THis is the article Olive oil, len 6064, index 0
+           THis is the article Oxford University Press, len 3872, index 0
+        THis is the letter P
+           THis is the article Parque Natural da Serra de São Mamede, len 8, index 0
+           THis is the article Parque Natural do Vale Guadiana, len 8, index 0
+           THis is the article Polyphonic, len 24, index 0
+           THis is the article Polytechnic Institute of Beja, len 208, index 0
+           THis is the article Ponte de Sor, len 400, index 0
+           THis is the article Population density, len 3968, index 0
+           THis is the article Portalegre, Portugal, len 952, index 0
+           THis is the article Portugal, len 18224, index 0
+           THis is the article Presunto, len 576, index 0
+           THis is the article Protected geographical indications in the European Union, len 8, index 0
+        THis is the letter É
+           THis is the article Évora, len 2144, index 0
+        THis is the letter F
+           THis is the article File:Pt-Alentejo.ogg, len 0, index 0
+        THis is the letter A
+           THis is the article Alentejo, len 704, index 704
+           THis is the article Alans, len 4744, index 0
+           THis is the article Alentejo (disambiguation), len 128, index 0
+           THis is the article Alentejo Litoral, len 424, index 0
+           THis is the article Alentejo Province, len 48, index 0
+           THis is the article Alentejo Region, len 528, index 0
+           THis is the article Alentejo wine, len 336, index 0
+           THis is the article Algarve, len 4728, index 0
+           THis is the article Alqueva Dam, len 224, index 0
+           THis is the article Alto Alentejo Province, len 512, index 0
+           THis is the article Amareleja, len 432, index 0
+           THis is the article Andalucia, len 24, index 0
+           THis is the article Antas do Olival da Pêga, len 2248, index 0
+[getBaseArticle] - PROBLEM - all articles have been fully seen, this should not happen
+[CHANGE] - new base link None
+        THis is the letter O
+           THis is the article Olive, len 4632, index 0
+           THis is the article Olive oil, len 6064, index 0
+           THis is the article Oxford University Press, len 3872, index 0
+        THis is the letter P
+           THis is the article Parque Natural da Serra de São Mamede, len 8, index 0
+           THis is the article Parque Natural do Vale Guadiana, len 8, index 0
+           THis is the article Polyphonic, len 24, index 0
+           THis is the article Polytechnic Institute of Beja, len 208, index 0
+           THis is the article Ponte de Sor, len 400, index 0
+           THis is the article Population density, len 3968, index 0
+           THis is the article Portalegre, Portugal, len 952, index 0
+           THis is the article Portugal, len 18224, index 0
+           THis is the article Presunto, len 576, index 0
+           THis is the article Protected geographical indications in the European Union, len 8, index 0
+        THis is the letter É
+           THis is the article Évora, len 2144, index 0
+        THis is the letter F
+           THis is the article File:Pt-Alentejo.ogg, len 0, index 0
+        THis is the letter A
+           THis is the article Alentejo, len 704, index 704
+           THis is the article Alans, len 4744, index 0
+           THis is the article Alentejo (disambiguation), len 128, index 0
+           THis is the article Alentejo Litoral, len 424, index 0
+           THis is the article Alentejo Province, len 48, index 0
+           THis is the article Alentejo Region, len 528, index 0
+           THis is the article Alentejo wine, len 336, index 0
+           THis is the article Algarve, len 4728, index 0
+           THis is the article Alqueva Dam, len 224, index 0
+           THis is the article Alto Alentejo Province, len 512, index 0
+           THis is the article Amareleja, len 432, index 0
+           THis is the article Andalucia, len 24, index 0
+           THis is the article Antas do Olival da Pêga, len 2248, index 0
+[getBaseArticle] - PROBLEM - all articles have been fully seen, this should not happen
+[CHANGE] - new base link None
+        THis is the letter O
+           THis is the article Olive, len 4632, index 0
+           THis is the article Olive oil, len 6064, index 0
+           THis is the article Oxford University Press, len 3872, index 0
+        THis is the letter P
+           THis is the article Parque Natural da Serra de São Mamede, len 8, index 0
+           THis is the article Parque Natural do Vale Guadiana, len 8, index 0
+           THis is the article Polyphonic, len 24, index 0
+           THis is the article Polytechnic Institute of Beja, len 208, index 0
+           THis is the article Ponte de Sor, len 400, index 0
+           THis is the article Population density, len 3968, index 0
+           THis is the article Portalegre, Portugal, len 952, index 0
+           THis is the article Portugal, len 18224, index 0
+           THis is the article Presunto, len 576, index 0
+           THis is the article Protected geographical indications in the European Union, len 8, index 0
+        THis is the letter É
+           THis is the article Évora, len 2144, index 0
+        THis is the letter F
+           THis is the article File:Pt-Alentejo.ogg, len 0, index 0
+        THis is the letter A
+           THis is the article Alentejo, len 704, index 704
+           THis is the article Alans, len 4744, index 0
+           THis is the article Alentejo (disambiguation), len 128, index 0
+           THis is the article Alentejo Litoral, len 424, index 0
+           THis is the article Alentejo Province, len 48, index 0
+           THis is the article Alentejo Region, len 528, index 0
+           THis is the article Alentejo wine, len 336, index 0
+           THis is the article Algarve, len 4728, index 0
+           THis is the article Alqueva Dam, len 224, index 0
+           THis is the article Alto Alentejo Province, len 512, index 0
+           THis is the article Amareleja, len 432, index 0
+           THis is the article Andalucia, len 24, index 0
+           THis is the article Antas do Olival da Pêga, len 2248, index 0
+[getBaseArticle] - PROBLEM - all articles have been fully seen, this should not happen
+[CHANGE] - new base link None
+Time:23.530267477035522

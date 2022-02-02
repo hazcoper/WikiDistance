@@ -1,0 +1,447 @@
+doing Portugal
+  There was 500 links
+this is the article Alentejo
+This is the keys:  ['A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Alans
+  There was 1000 links
+this is the article Alans
+This is the keys:  ['A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Alentejo (disambiguation)
+  There was 500 links
+this is the article Alentejo (disambiguation)
+This is the keys:  ['A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Alentejo Litoral
+  There was 500 links
+this is the article Alentejo Litoral
+This is the keys:  ['A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Alentejo Province
+  There was 500 links
+this is the article Alentejo Province
+This is the keys:  ['A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Alentejo Region
+  There was 500 links
+this is the article Alentejo Region
+This is the keys:  ['A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Alentejo wine
+  There was 500 links
+this is the article Alentejo wine
+This is the keys:  ['A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Algarve
+  There was 1000 links
+this is the article Algarve
+This is the keys:  ['A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Alqueva Dam
+  There was 500 links
+this is the article Alqueva Dam
+This is the keys:  ['A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Alto Alentejo Province
+  There was 500 links
+this is the article Alto Alentejo Province
+This is the keys:  ['A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Amareleja
+  There was 500 links
+this is the article Amareleja
+This is the keys:  ['A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Andalucia
+  There was 500 links
+this is the article Andalucia
+This is the keys:  ['A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Antas do Olival da Pêga
+  There was 500 links
+this is the article Antas do Olival da Pêga
+This is the keys:  ['A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Baixo Alentejo Province
+  There was 500 links
+this is the article Baixo Alentejo Province
+This is the keys:  ['A', 'B']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Beira Baixa Province
+  There was 500 links
+this is the article Beira Baixa Province
+This is the keys:  ['A', 'B']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Beja, Portugal
+  There was 500 links
+this is the article Beja, Portugal
+This is the keys:  ['A', 'B']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing British English
+  There was 500 links
+this is the article British English
+This is the keys:  ['A', 'B']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Cante Alentejano
+  There was 500 links
+this is the article Cante Alentejano
+This is the keys:  ['C', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Cape St. Vincent
+  There was 500 links
+this is the article Cape St. Vincent
+This is the keys:  ['C', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Casablanca
+  There was 1000 links
+this is the article Casablanca
+This is the keys:  ['C', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Castelo de Vide
+  There was 500 links
+this is the article Castelo de Vide
+This is the keys:  ['C', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Citrus
+  There was 1000 links
+this is the article Citrus
+This is the keys:  ['C', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Climate change
+  There was 1000 links
+this is the article Climate change
+This is the keys:  ['C', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Comarca
+  There was 500 links
+this is the article Comarca
+This is the keys:  ['C', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Cork (material)
+  There was 1000 links
+this is the article Cork (material)
+This is the keys:  ['C', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Corsica
+  There was 1000 links
+this is the article Corsica
+This is the keys:  ['C', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing District of Beja
+  There was 500 links
+this is the article District of Beja
+This is the keys:  ['D', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing District of Portalegre
+  There was 500 links
+this is the article District of Portalegre
+This is the keys:  ['D', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing District of Évora
+  There was 500 links
+this is the article District of Évora
+This is the keys:  ['D', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Ecosystem
+  There was 1000 links
+this is the article Ecosystem
+This is the keys:  ['E', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Elvas
+  There was 500 links
+this is the article Elvas
+This is the keys:  ['E', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Encyclopædia Britannica Eleventh Edition
+  There was 500 links
+this is the article Encyclopædia Britannica Eleventh Edition
+This is the keys:  ['E', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Estremadura Province (historical)
+  There was 500 links
+this is the article Estremadura Province (historical)
+This is the keys:  ['E', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Estremoz
+  There was 500 links
+this is the article Estremoz
+This is the keys:  ['E', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Eucalyptus globulus
+  There was 500 links
+this is the article Eucalyptus globulus
+This is the keys:  ['E', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Extremadura
+  There was 500 links
+this is the article Extremadura
+This is the keys:  ['E', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Grazing
+  There was 500 links
+this is the article Grazing
+This is the keys:  ['A', 'G']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Guadiana
+  There was 500 links
+this is the article Guadiana
+This is the keys:  ['A', 'G']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Hydroelectricity
+  There was 500 links
+this is the article Hydroelectricity
+This is the keys:  ['A', 'H']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Irrigation
+  There was 1000 links
+this is the article Irrigation
+This is the keys:  ['A', 'I']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Juromenha
+  There was 500 links
+this is the article Juromenha
+This is the keys:  ['A', 'J']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Kingdom of Portugal
+  There was 1000 links
+this is the article Kingdom of Portugal
+This is the keys:  ['A', 'K']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Lexico
+  There was 500 links
+this is the article Lexico
+This is the keys:  ['L', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Marble
+  There was 500 links
+this is the article Marble
+This is the keys:  ['M', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Marvão
+  There was 500 links
+this is the article Marvão
+This is the keys:  ['M', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Mediterranean climate
+  There was 500 links
+this is the article Mediterranean climate
+This is the keys:  ['M', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Migration Period
+  There was 1000 links
+this is the article Migration Period
+This is the keys:  ['M', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Mining
+  There was 1500 links
+this is the article Mining
+This is the keys:  ['M', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Monsaraz
+  There was 500 links
+this is the article Monsaraz
+This is the keys:  ['M', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Moura, Portugal
+  There was 500 links
+this is the article Moura, Portugal
+This is the keys:  ['M', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Mértola
+  There was 500 links
+this is the article Mértola
+This is the keys:  ['M', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing NUTS statistical regions of Portugal
+  There was 500 links
+this is the article NUTS statistical regions of Portugal
+This is the keys:  ['A', 'N']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Olive
+  There was 1000 links
+this is the article Olive
+This is the keys:  ['A', 'O']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Olive oil
+  There was 1000 links
+this is the article Olive oil
+This is the keys:  ['A', 'O']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Oxford University Press
+  There was 1000 links
+this is the article Oxford University Press
+This is the keys:  ['A', 'O']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Parque Natural da Serra de São Mamede
+  There was 500 links
+this is the article Parque Natural da Serra de São Mamede
+This is the keys:  ['A', 'P']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Parque Natural do Vale Guadiana
+  There was 500 links
+this is the article Parque Natural do Vale Guadiana
+This is the keys:  ['A', 'P']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Polyphonic
+  There was 500 links
+this is the article Polyphonic
+This is the keys:  ['A', 'P']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Polytechnic Institute of Beja
+  There was 500 links
+this is the article Polytechnic Institute of Beja
+This is the keys:  ['A', 'P']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Ponte de Sor
+  There was 500 links
+this is the article Ponte de Sor
+This is the keys:  ['A', 'P']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Population density
+  There was 1000 links
+this is the article Population density
+This is the keys:  ['A', 'P']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Portalegre, Portugal
+  There was 500 links
+this is the article Portalegre, Portugal
+This is the keys:  ['A', 'P']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Portugal
+  There was 2500 links
+this is the article Portugal
+This is the keys:  ['A', 'P']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Presunto
+  There was 500 links
+this is the article Presunto
+This is the keys:  ['A', 'P']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Protected geographical indications in the European Union
+  There was 500 links
+this is the article Protected geographical indications in the European Union
+This is the keys:  ['A', 'P']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Queijo de Nisa
+  There was 500 links
+this is the article Queijo de Nisa
+This is the keys:  ['A', 'Q']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Quercus ilex
+  There was 500 links
+this is the article Quercus ilex
+This is the keys:  ['A', 'Q']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Quercus suber
+  There was 500 links
+this is the article Quercus suber
+This is the keys:  ['A', 'Q']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Ribatejo
+  There was 500 links
+this is the article Ribatejo
+This is the keys:  ['R', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Ribatejo Province
+  There was 500 links
+this is the article Ribatejo Province
+This is the keys:  ['R', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Roman Temple of Évora
+  There was 500 links
+this is the article Roman Temple of Évora
+This is the keys:  ['R', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Sado river
+  There was 500 links
+this is the article Sado river
+This is the keys:  ['R', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Serpa
+  There was 500 links
+this is the article Serpa
+This is the keys:  ['R', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Sines
+  There was 500 links
+this is the article Sines
+This is the keys:  ['A', 'S']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Smoked ham
+  There was 500 links
+this is the article Smoked ham
+This is the keys:  ['A', 'S']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Southwest Alentejo and Vicentine Coast Natural Park
+  There was 500 links
+this is the article Southwest Alentejo and Vicentine Coast Natural Park
+This is the keys:  ['A', 'S']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Subdivisions of Alentejo
+  There was 500 links
+this is the article Subdivisions of Alentejo
+This is the keys:  ['A', 'S']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Tagus river
+  There was 500 links
+this is the article Tagus river
+This is the keys:  ['S', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Tuscany
+  There was 1000 links
+this is the article Tuscany
+This is the keys:  ['A', 'T']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing University of Évora
+  There was 500 links
+this is the article University of Évora
+This is the keys:  ['U', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Vine
+  There was 500 links
+this is the article Vine
+This is the keys:  ['A', 'V']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Vinho do Alentejo
+  There was 500 links
+this is the article Vinho do Alentejo
+This is the keys:  ['A', 'V']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Vinho do Redondo
+  There was 500 links
+this is the article Vinho do Redondo
+This is the keys:  ['A', 'V']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Vitis
+  There was 500 links
+this is the article Vitis
+This is the keys:  ['A', 'V']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Vitis vinifera
+  There was 500 links
+this is the article Vitis vinifera
+This is the keys:  ['A', 'V']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Western Roman Empire
+  There was 1500 links
+this is the article Western Roman Empire
+This is the keys:  ['W', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Wikisource
+  There was 500 links
+this is the article Wikisource
+This is the keys:  ['W', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing Évora
+  There was 500 links
+this is the article Évora
+This is the keys:  ['A', 'É']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+Doing File:Pt-Alentejo.ogg
+  There was 500 links
+this is the article File:Pt-Alentejo.ogg
+This is the keys:  ['F', 'A']
+Alentejo keys ['Alentejo', 'Alans', 'Alentejo (disambiguation)', 'Alentejo Litoral', 'Alentejo Province', 'Alentejo Region', 'Alentejo wine', 'Algarve', 'Alqueva Dam', 'Alto Alentejo Province', 'Amareleja', 'Andalucia', 'Antas do Olival da Pêga']
+done with all the articles
+Time:23.780418157577515
