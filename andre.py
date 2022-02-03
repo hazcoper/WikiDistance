@@ -87,20 +87,22 @@ def main():
     # data = do_request("Pillars of Creation")
     
     #gonna start with portugal, get all the links, get one random article from there and try that
-    print("doing Portugal")
 
-    baseLink = "Alentejo"
+    baseLink = "NASA"
     data = do_request(baseLink)
     myDatabase.appendReferenceList(baseLink, data)
     nextArticle = 0
     counter = 0
     x = 0
-    while x < 10:
-
+    while x < 50:
+        print()
         if nextArticle == -1:
             x += 1
             baseLink = myDatabase.getBaseArticle()
+            nextArticle = myDatabase.getNextLink(baseLink)
+            
             print(f"[CHANGE] - new base link {baseLink}")
+
 
         else:
             nextArticle = myDatabase.getNextLink(baseLink)

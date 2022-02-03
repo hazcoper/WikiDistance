@@ -26,7 +26,7 @@ class MyDatabase():
         self.saveat = 10 #entries
 
         self.loadedList = {} #dictionary with the letter as key and dictionary with links as value
-        self.loadquant = 5   #how many dicts to be loaded at once in memory
+        self.loadquant = 10   #how many dicts to be loaded at once in memory
         self.loadedNum = 0
 
 
@@ -140,7 +140,7 @@ class MyDatabase():
                 myLen = len(self.loadedList[letter][article]["links"])
                 myIndex = self.loadedList[letter][article]["index"]
                 print(f"           THis is the article {article}, len {myLen}, index {myIndex}")
-                if len(self.loadedList[letter][article]["links"]) < self.loadedList[letter][article]["index"]:
+                if len(self.loadedList[letter][article]["links"]) > self.loadedList[letter][article]["index"]:
                     return article
 
         print("[getBaseArticle] - PROBLEM - all articles have been fully seen, this should not happen")
@@ -158,7 +158,7 @@ class MyDatabase():
         """
 
         #check if I need to load the dictionary to memory
-        print(f"this is the article {article}")
+        # print(f"this is the article {article}")
         if article[0] not in self.loadedList:
             self.loadToMemory(article[0])
         

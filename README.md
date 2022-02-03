@@ -44,7 +44,7 @@ store
     serialize or using json
 
 
-vocabolary:
+vocabulary:
     source --> the starting article
     dest   --> the final article
 
@@ -52,3 +52,23 @@ vocabolary:
 dictionary:
     key -> article name -> needs to contain a date to keep track of when was updated
     value -> list of articles
+
+
+vou poder ter n dicionarios carregados em memoria
+
+cada vez que recebo uma coisa:
+	vejo qual e a letra inicial
+	vejo se esta carregado em memoria ou nao
+		se nao tiver
+			vou tirar um da minha lista e carregar
+
+
+implementar algoritmo de compresao de dados com a lista
+
+
+dar um nome a cada pedaco do dicionario
+	right now estao divididos por letras
+
+
+
+check if I am not always getting the same thing with andre
