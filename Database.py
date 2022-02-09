@@ -3,6 +3,7 @@ import json
 import os
 import pickle
 import threading
+import time
 
 """
 articles are stored in dict of their first letter
@@ -25,11 +26,11 @@ class MyDatabase():
 
         self.fileName = None
 
-        self.saveat = 50 #after 10 articles have been added, should save everything
+        self.saveat = 50    #after x articles have been added, should save everything
         self.count = 0
 
         self.loadedList = {} #dictionary with the letter as key and dictionary with links as value
-        self.loadquant = 10   #how many dicts to be loaded at once in memory
+        self.loadQuant = 10   #how many dicts to be loaded at once in memory
         self.loadedNum = 0
 
 
@@ -115,15 +116,13 @@ class MyDatabase():
         
         will not require locking because it is an internal function and it will already be locked once it reaches here
         """
-
         if letter in self.loadedList:
             print(f"[loadToMemory] - dict representing letter {letter} is already in memory")
-            self.lock.release()
             return False
 
 
         #need to check that I have space in memory
-        if self.loadedNum >= self.loadquant:
+        if self.loadedNum >= self.loadQuant:
             self._removeFromMemory(random.choice(list(self.loadedList)))
 
 
@@ -209,17 +208,34 @@ class MyDatabase():
         self.loadedList[article[0]][article]["index"] = 1
         self.lock.release()
 
+    def _fillMemoryRandom(self):
+        """
+        Will fill the memory with random letters
+
+        does not need locking because it is an internal funtion
+        """
+
+        letterList = [x.split(".")[0] for x in os.listdir("db")]
+        while self.loadedNum < self.loadQuant:
+            self._loadToMemory(random.choice(letterList))
+
     def getBaseArticle(self):
         """
         Will return an article where not all the links have been seen yet
         Will only return from the a dictionary that is loaded
             will need to deal with what happens when all of the articles that are loaded have been seen
         
+        will need to change this, because there might be articles that have not been seen yet in dicts that are not loaded in memory
         """
         self.lock.acquire()
         #iterate over all the loaded dicts
         #   look for an article that has the index < len of the list
         #   return that value
+
+        #check to see if there is any loaded letter
+        if self.loadedNum == 0:
+            self._fillMemoryRandom()
+
         for letter in self.loadedList:
             print(f"        THis is the letter {letter}")
             for article in self.loadedList[letter]:
@@ -227,17 +243,37 @@ class MyDatabase():
                 myIndex = self.loadedList[letter][article]["index"]
                 print(f"           THis is the article {article}, len {myLen}, index {myIndex}")
                 if self.loadedList[letter][article]["index"] == 0:
-                    self.loadedList[letter][article]["index"] = 1
+                    self.loadedList[letter][article]["index"] = -1   #indicate that it is being seen
+
                     self.lock.release()
                     return article
     
+        self.lock.release()
+        print("here returned false!")
         print("[getBaseArticle] - PROBLEM - all articles have been fully seen, this should not happen")
+
+        return False
 
     def getDictSize(self):
         print("Please implement me")
 
     def addSingleEntry(self, key, singleValue): 
         print(" please implement me")
+
+    def isEmpty(self):
+        """
+        Returns true if the database is empty
+        returns false if the databse is not empty
+
+        just because files exists does not mean that the database is not empty, need to check this
+        """
+
+        if len(os.listdir("db")) == 0:
+            return True #yes the dict is empty
+        
+        #no the dict is not empty
+        return False
+
 
     def appendReferenceList(self, article, valueList):
         """"

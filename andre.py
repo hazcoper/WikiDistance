@@ -4,12 +4,14 @@ import requests
 import time
 from Database import MyDatabase
 import threading
+import signal
 
 from pprint import pprint
 
 blackist = ["Help:", "Category:", "Talk:", "Wikipedia:", "Template:", "Template talk", "Portal:"]
 
 
+keepWorking = True
 myDatabase = MyDatabase()
 start = time.time()
 
@@ -80,69 +82,64 @@ def do_request(article):
     return results, counter*500
 
 
-#I will have two articles, the base article (where I am looking for other articles) and the link article
-# the link article is a link in the base article, and will be adding it as a possible base article
-# the link article is actually named nextArticle
 
-def work(name):
+def worker(name):
+    global keepWorking
 
-    #get a baseLink
-    myLink = myDatabase.getBaseArticle()
-    #get the data
-    data,c = do_request(myLink)
-    #save the data
-    myDatabase.appendReferenceList(myLink, data)
+    while keepWorking:
+        
+        #wait for the database to give me something
+        baseArticle = myDatabase.getBaseArticle()
+        if baseArticle == False:
+            print(f"[THREAD{name}] - Waiting for links")
+            time.sleep(1)
+            continue
 
-    #get the link of the links
-    linkList = myDatabase.getLinks(myLink)
-    
-    for link in linkList:
-        data,c = do_request(link)
-        myDatabase.appendReferenceList(link, data)
-    print(f"[THREAD-{name}] --> did {myLink} --> {c}")
+        #means that I already have an article
+        print(f"[THREAD{name}] - Starting {baseArticle} links")
+        
+        
+        #for each article in link list
+        #   get the links for the article
+        #   add the article and the links to the database
+        #mark the base article
+        articleSet = myDatabase.getLinks(baseArticle)
+
+        for article in articleSet:
+            data, c = do_request(article)
+            myDatabase.appendReferenceList(article, data)
+            print(f"[THREAD{name}] - {baseArticle} - Did {article} {c} links")
+
+        myDatabase.markArticle(baseArticle)
+
+    print(f"[THREAD{name}] - Got close signal, not repeating")
 
 
+def exit_handler(signum, frame):
+    global keepWorking
+    print("[MAIN] - got closing signal")
+    keepWorking = False
 
 def main():
-    # data = do_request("Pillars of Creation")
-    
-    #gonna start with portugal, get all the links, get one random article from there and try that
+
+    global keepworking
+
+    #does it make a difference putting it before making the threads or not?
+    signal.signal(signal.SIGINT, exit_handler)
 
 
+    if myDatabase.isEmpty():
+        #if it is empty than we should add something
+        print(f"[MAIN] - db empty need to add something")
+        baseLink = "Rubicon"
+        data, c = do_request(baseLink)
+        myDatabase.appendReferenceList(baseLink, data)
 
 
-# i give a base article
-# the program will check if the base article already exists in the database or not
-#     if it is already in the database, it will check if it has been seen yet
-#         if it has been seen, than it will pick another base article
-    
-#         if it has not been seen yet, it will get all the links of the links
-
-#     if it is not in the database, it will get the links and add it to the databse
-
-    #para x baseLinks
-    #   vou pegar no em todos os links que estao no baseLink
-    #      vou pegar em todos os links que estao nos links do baseLink
-    #
-
-    #get the first article
-    baseLink = "Rubicon"
-    data, c = do_request(baseLink)
-    myDatabase.appendReferenceList(baseLink, data)
-    
-    #get the link of the links
-    mySet = myDatabase.getLinks(baseLink)
-    
-    for link in mySet:
-        data,c = do_request(link)
-        myDatabase.appendReferenceList(link, data)
-
-    print(f"[THREAD-MAIN] --> did {baseLink} --> {c}")
-
-    # lets create the thread
+    #lets create the threads
     counter = 0
-    for i in range(4):
-        t = threading.Thread(target=work, args=(counter,))
+    for i in range(10):
+        t = threading.Thread(target=worker, args=(counter,))
         t.start()
         counter += 1
 
@@ -152,73 +149,94 @@ def main():
         if t is not main_thread:
             t.join()
 
-
-
-    # baseLink = "Rubicon"
-    # for x in range(2): #get 10 base articles
-    #     print(f"\nDoing {baseLink}")
-    #     hasArticle = myDatabase.hasArticle(baseLink) 
-    #     if hasArticle == 2: #means that the article exists and that I have already seen it
-    #         print("it has been seen already")
-    #         baseLink = myDatabase.getBaseArticle()
-    #         continue
-
-    #     if hasArticle == 1: #means that the article exists but it has not been seen yet
-    #         #i want to get and get the link at everysingle of this entries
-    #         print("it has not been seen yet")
-    #         mySet = myDatabase.getLinks(baseLink)
             
-    #         for link in mySet:
-    #             data = do_request(link)
-    #             myDatabase.appendReferenceList(link, data)
-            
-    #         myDatabase.markArticle(baseLink);
-    #         baseLink = myDatabase.getBaseArticle()
-    #         continue
-
-    #     #i want to get the links in the base link
-    #     print("it is not in the database yet")
-    #     data = do_request(baseLink)
-    #     myDatabase.appendReferenceList(baseLink, data)
-
-
-        
-
-        # lets check if the article already exists in the database
-
-
-
-    # baseLink = "NASA"
-    # data = do_request(baseLink)
-    # myDatabase.appendReferenceList(baseLink, data)
-    # nextArticle = 0
-    # counter = 0
-    # x = 0
-    # while x < 50:
-    #     print()
-    #     if nextArticle == -1:
-    #         x += 1
-    #         baseLink = myDatabase.getBaseArticle()
-    #         nextArticle = myDatabase.getNextLink(baseLink)
-            
-    #         print(f"[CHANGE] - new base link {baseLink}")
-
-
-    #     else:
-    #         nextArticle = myDatabase.getNextLink(baseLink)
-    #         if nextArticle == -1:
-    #             print("done with all the articles")
-    #             continue
-    #         print(f"Doing {nextArticle} in {baseLink}")
-    #         data = do_request(nextArticle)
-    #         myDatabase.appendReferenceList(nextArticle, data)
-    #         counter += 1
-
-    # data = do_request("Sérgio Azevedo")
-
 if __name__ == '__main__':
     main()
     myDatabase.saveAndExit()
 
 print(f"Time:{time.time() - start}")
+
+"""
+
+ideia 1 -> nao usada
+    preciso de pensar como e que eu vou fill in the database com threads
+
+
+    vou buscar um artigo
+        vejo todos os links desse artigo
+        faco uma lista e divido em x partes
+        dou cada uma das parte para as threads
+
+        portanto as threads vao receber uma lista de artigos
+            para cada artigo nessa lista, vou buscar os links nesses artigo
+
+
+        basicamnete eu vou ter uma thread que vai estar a processar base articles
+            depois vou ter x thread que vao estar a buscar os links de cada link desses artigos
+
+        de certeza que isto nao e a maneira mais eficiente, mas e capaz de funcionar
+
+
+        vou ter x listas
+        para cada lista vou ter um lock
+        nessas listas vou adicionar os links da base
+        vou dividir isso
+
+    base1
+        link1
+        link2
+        link3
+
+    link1
+        link2
+        link5
+        link6
+
+
+
+ideia 2 -> nao usada
+    meu buffer vai ter um tamanho fixo
+        as threads vao estar constantemente a ir la, buscar artigos (esses artigos vao conter uma lista de links)
+            para cada link nessa lista de links
+    tenho a base thread que vai buscasr um artigo base
+        a ir buscar esse artigo base, vai adicionar a base de dados
+        mas tambem vai adicionar a lista de links ao buffer
+
+
+
+ideia 3 -> usada
+    cada thread vai fazer a mesma coisa
+        
+        1. pedir a base de dados um artigo
+            esperar ate receber alguma coisa da base de dados
+
+        2. quando tiver recebido o meu base article
+            para cada artigo dentro do base article:
+                vou buscar todos os links desse artigo
+                adicionar a base de dados
+            marcar artigo base como lido
+        
+        3. voltar para o passo 1
+
+    tenho de perceber como vou fazer para fechar o programa
+    tenho de perceber como vou fazer para iniciar o programa
+        pela a primeira vez quando a base de dados esta vazia
+
+
+    para fechar o programa
+        vou apanhar o sinal na base thread
+        mandar o sinal a todas as outras threads
+        elas vao acabar o que estao a fazer e depois parar
+            se calhar basta ter uma variavel que e tipo quit
+            e cada vez antes de pedir uma coisa a base de dados vou ver se essa variave e true
+    todo:
+        funcao na base de dados que posso pedir um artigo para ver
+            vai devolver algum artigo que nao tenha sido visto ainda
+            retorna false se nao tiver artigo nenhum para ver
+            de alguma maneira conseguir avisar que tem coisas
+        tenho  de fazer o codigo da thread
+        
+
+"""
+
 
